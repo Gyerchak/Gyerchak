@@ -24,7 +24,7 @@
 ## 📦 My public repositories
 
 <!-- STATUS:START -->
-**13 public repos** · **0 released** · **13 in development**
+**14 public repos** · **0 released** · **14 in development**
 <!-- STATUS:END -->
 
 <!-- REPOS:START -->
@@ -33,6 +33,7 @@
 | [DemandPolandEu](https://github.com/Gyerchak/DemandPolandEu) | 🚧 in development |  | Python | ⭐ 0 |
 | [GameTemplate](https://github.com/Gyerchak/GameTemplate) | 🚧 in development |  | Shell | ⭐ 0 |
 | [Globe-Game](https://github.com/Gyerchak/Globe-Game) | 🚧 in development |  | C++ | ⭐ 0 |
+| [Gyerchak](https://github.com/Gyerchak/Gyerchak) | 🚧 in development | Profile repository — README shown on my GitHub profile. | — | ⭐ 0 |
 | [HeadControll](https://github.com/Gyerchak/HeadControll) | 🚧 in development |  | Shell | ⭐ 0 |
 | [LinuxXiaomiWatchApp](https://github.com/Gyerchak/LinuxXiaomiWatchApp) | 🚧 in development |  | Shell | ⭐ 0 |
 | [Minkraft](https://github.com/Gyerchak/Minkraft) | 🚧 in development |  | Makefile | ⭐ 0 |
