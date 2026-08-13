@@ -14,10 +14,13 @@
 
 ---
 
-## 📊 GitHub metrics
+## 📊 Metrics
 
-![Gyerchak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyerchak&show_icons=true&theme=dark)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyerchak&layout=compact&theme=dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-metrics-dark.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="./github-metrics-light.svg#gh-light-mode-only">
+  <img alt="GitHub Metrics" src="./github-metrics-light.svg">
+</picture>
 
 ---
 
