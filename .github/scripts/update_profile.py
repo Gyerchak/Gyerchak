@@ -50,6 +50,8 @@ def replace_section(text, start, end, replacement):
 
 def main():
     repos = [r for r in api(f"/users/{OWNER}/repos?per_page=100&visibility=public") if not r["fork"]]
+    # The profile repo itself is not a project.
+    repos = [r for r in repos if r["name"] != OWNER]
     repos.sort(key=lambda r: (not has_release(r["name"]), r["name"].lower()))
 
     released_names = set()
