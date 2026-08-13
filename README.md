@@ -38,7 +38,7 @@
 | [Globe-Game](https://github.com/Gyerchak/Globe-Game) | 🚧 in development |  | C++ | ⭐ 0 |
 | [HeadControll](https://github.com/Gyerchak/HeadControll) | 🚧 in development |  | Shell | ⭐ 0 |
 | [LinuxXiaomiWatchApp](https://github.com/Gyerchak/LinuxXiaomiWatchApp) | 🚧 in development |  | Shell | ⭐ 0 |
-| [Minkraft](https://github.com/Gyerchak/Minkraft) | 🚧 in development |  | Makefile | ⭐ 0 |
+| [Minkraft](https://github.com/Gyerchak/Minkraft) | 🚧 in development |  | C++ | ⭐ 0 |
 | [Moba](https://github.com/Gyerchak/Moba) | 🚧 in development |  | C++ | ⭐ 0 |
 | [OpenCode-DiscordBot](https://github.com/Gyerchak/OpenCode-DiscordBot) | 🚧 in development |  | Shell | ⭐ 0 |
 | [OpenCodeBox](https://github.com/Gyerchak/OpenCodeBox) | 🚧 in development |  | Shell | ⭐ 0 |
