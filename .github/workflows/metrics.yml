@@ -46,13 +46,3 @@ jobs:
           plugin_isocalendar_duration: half-year
           config_colors: github-dark
           config_display: large
-
-      - name: Commit metrics
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add github-metrics-light.svg github-metrics-dark.svg
-          if ! git diff --cached --quiet; then
-            git commit -m "chore: update GitHub metrics"
-            git push
-          fi
