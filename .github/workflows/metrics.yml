@@ -27,10 +27,13 @@ jobs:
           filename: github-metrics-light.svg
           base: header, activity, repositories
           plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_skipped: html, css, dockerfile, shell
+          plugin_languages_limit: 10
+          plugin_languages_skipped: html, css, dockerfile
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          plugin_achievements: yes
+          plugin_habits: yes
+          plugin_habits_charts: yes
           config_display: large
 
       - name: Generate dark-mode variant
