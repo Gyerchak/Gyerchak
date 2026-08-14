@@ -6,6 +6,10 @@
 
 <br>
 
+<h2 align="center">"aka GitHub Slop"</h2>
+
+<br>
+
 | 🚧 Status |
 |-----------|
 | **All public repositories are currently under development.** A repo shows **✅ Released** once it has a GitHub release — until then it's **🚧 in development**. |
@@ -14,13 +18,19 @@
 
 ---
 
-## 📊 Metrics
+## 📊 Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-metrics-dark.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="./github-metrics-light.svg#gh-light-mode-only">
-  <img alt="GitHub Metrics" src="./github-metrics-light.svg">
-</picture>
+<div align="center">
+
+![GitHub contribution calendar](https://ghchart.rshah.org/Gyerchak)
+
+| Most used languages |
+|---------------------|
+| ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyerchak&layout=compact&langs_count=8) |
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyerchak&show_icons=true&hide_title=true&count_private=true)
+
+</div>
 
 ---
 
