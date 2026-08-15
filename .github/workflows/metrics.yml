@@ -46,11 +46,18 @@ jobs:
       - name: Generate dark-mode variant
         run: python3 .github/scripts/darkify.py github-metrics-light.svg github-metrics-dark.svg
 
+      - name: Bump image cache-buster in README
+        run: |
+          VERSION="v=$(date -u +%Y%m%d%H%M)"
+          sed -i "s|github-metrics-light.svg#gh-light-mode-only|github-metrics-light.svg?$VERSION#gh-light-mode-only|" README.md
+          sed -i "s|github-metrics-dark.svg#gh-dark-mode-only|github-metrics-dark.svg?$VERSION#gh-dark-mode-only|" README.md
+          sed -i "s|src=\"./github-metrics-light.svg\"|src=\"./github-metrics-light.svg?$VERSION\"|" README.md
+
       - name: Commit metrics
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add github-metrics-light.svg github-metrics-dark.svg
+          git add github-metrics-light.svg github-metrics-dark.svg README.md
           if ! git diff --cached --quiet; then
             git commit -m "chore: update GitHub metrics"
             git pull --rebase origin main
