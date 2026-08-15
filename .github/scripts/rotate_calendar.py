@@ -10,7 +10,7 @@ re-centered so the whole diamond fits inside the 480x270 viewBox at full size.
 import sys
 
 ORIGINAL = '<g transform="scale(4) translate(12, 0)">'
-ROTATED = '<g transform="scale(4) translate(12, 0) translate(9, 1.25) rotate(45 39 29)">'
+ROTATED = '<g transform="scale(4) translate(12, 0) translate(9, 1.25) rotate(0 39 29)">'
 
 
 def main() -> None:
