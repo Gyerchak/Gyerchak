@@ -1,12 +1,3 @@
-<!-- PINS:START -->
-<div align="center">
-<table>
-<tr><td width="330" align="left" valign="top" style="border:1px solid var(--color-border-default); border-radius:6px; padding:10px 14px;"><a href="https://github.com/Gyerchak/Globe-Game"><b>Globe-Game</b></a> <sub style="color:var(--color-fg-muted)">Public</sub><br/><span style="color:var(--color-fg-muted); font-size:13px;">&nbsp;</span><br/><span style="color:var(--color-fg-muted); font-size:12px;"><span style="color:#f34b7d">&#11044;</span> C++ &nbsp; &#11088; 0 &nbsp; &#127860; 0</span></td><td width="330" align="left" valign="top" style="border:1px solid var(--color-border-default); border-radius:6px; padding:10px 14px;"><a href="https://github.com/Gyerchak/Minkraft"><b>Minkraft</b></a> <sub style="color:var(--color-fg-muted)">Public</sub><br/><span style="color:var(--color-fg-muted); font-size:13px;">&nbsp;</span><br/><span style="color:var(--color-fg-muted); font-size:12px;"><span style="color:#f34b7d">&#11044;</span> C++ &nbsp; &#11088; 0 &nbsp; &#127860; 0</span></td><td width="330" align="left" valign="top" style="border:1px solid var(--color-border-default); border-radius:6px; padding:10px 14px;"><a href="https://github.com/Gyerchak/Moba"><b>Moba</b></a> <sub style="color:var(--color-fg-muted)">Public</sub><br/><span style="color:var(--color-fg-muted); font-size:13px;">&nbsp;</span><br/><span style="color:var(--color-fg-muted); font-size:12px;"><span style="color:#f34b7d">&#11044;</span> C++ &nbsp; &#11088; 0 &nbsp; &#127860; 0</span></td></tr>
-<tr><td width="330" align="left" valign="top" style="border:1px solid var(--color-border-default); border-radius:6px; padding:10px 14px;"><a href="https://github.com/Gyerchak/HeadControll"><b>HeadControll</b></a> <sub style="color:var(--color-fg-muted)">Public</sub><br/><span style="color:var(--color-fg-muted); font-size:13px;">&nbsp;</span><br/><span style="color:var(--color-fg-muted); font-size:12px;"><span style="color:#89e051">&#11044;</span> Shell &nbsp; &#11088; 0 &nbsp; &#127860; 0</span></td><td width="330" align="left" valign="top" style="border:1px solid var(--color-border-default); border-radius:6px; padding:10px 14px;"><a href="https://github.com/Gyerchak/StockAnalyzer"><b>StockAnalyzer</b></a> <sub style="color:var(--color-fg-muted)">Public</sub><br/><span style="color:var(--color-fg-muted); font-size:13px;">&nbsp;</span><br/><span style="color:var(--color-fg-muted); font-size:12px;"><span style="color:#f34b7d">&#11044;</span> C++ &nbsp; &#11088; 0 &nbsp; &#127860; 0</span></td><td width="330" align="left" valign="top" style="border:1px solid var(--color-border-default); border-radius:6px; padding:10px 14px;"><a href="https://github.com/Gyerchak/OpenCode-DiscordBot"><b>OpenCode-DiscordBot</b></a> <sub style="color:var(--color-fg-muted)">Public</sub><br/><span style="color:var(--color-fg-muted); font-size:13px;">&nbsp;</span><br/><span style="color:var(--color-fg-muted); font-size:12px;"><span style="color:#89e051">&#11044;</span> Shell &nbsp; &#11088; 0 &nbsp; &#127860; 0</span></td></tr>
-</table>
-</div>
-<!-- PINS:END -->
-
 <div align="center">
 
 # 👋 Hi, I'm Gyerchak
@@ -29,16 +20,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="./github-metrics-dark.svg#gh-dark-mode-only">
   <source media="(prefers-color-scheme: light)" srcset="./github-metrics-light.svg#gh-light-mode-only">
   <img alt="GitHub Metrics" src="./github-metrics-light.svg">
-</picture>
-
----
-
-## 🗓️ Contribution calendars
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./contributions-dark.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="./contributions.svg#gh-light-mode-only">
-  <img alt="Contribution calendars" src="./contributions.svg">
 </picture>
 
 ---
@@ -94,4 +75,4 @@
 
 ---
 
-<sub>Auto-updated by a scheduled GitHub Action. Pinned cards, contribution calendars and repo status are regenerated automatically; repo status is "released" when the repo has a GitHub release, otherwise "in development".</sub>
+<sub>Auto-updated by a scheduled GitHub Action. Repo status and the metrics card (isometric contribution calendar, languages) are regenerated automatically; repo status is "released" when the repo has a GitHub release, otherwise "in development".</sub>
