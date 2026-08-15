@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1041 Commits
+                            1046 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -180,14 +180,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="591.509685105078" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="591.509685105078" y="0" width="246.6430886181954" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="838.1527737232734" y="0" width="40.06418796387216" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="878.2169616871456" y="0" width="19.923580702328614" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="898.1405423894743" y="0" width="6.477700226167624" height="8" fill="#5686a5"/>
-                    <rect mask="url(#languages-bar)" x="904.6182426156419" y="0" width="5.866227895579558" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="910.4844705112215" y="0" width="5.64865876996659" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="916.1331292811881" y="0" width="3.8668707188120153" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="591.4988712466297" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="591.4988712466297" y="0" width="246.65539879080677" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="838.1542700374365" y="0" width="40.06345551862503" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="878.2177255560615" y="0" width="19.92321646352251" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="898.140942019584" y="0" width="6.477581802183908" height="8" fill="#5686a5"/>
+                    <rect mask="url(#languages-bar)" x="904.6185238217679" y="0" width="5.866120650407271" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="910.4846444721752" y="0" width="5.648555502348326" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="916.1331999745237" y="0" width="3.8668000254765653" height="8" fill="#012456"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -360,7 +360,7 @@
                             <feFuncB type="linear" slope="0.19999999999999996"/>
                         </feComponentTransfer>
                     </filter>
-                    <g transform="scale(4) translate(12, 0) translate(9, 1.25) rotate(45 30 25)">
+                    <g transform="scale(4) translate(12, 0) translate(9, 1.25) rotate(45 39 29)">
                         <g transform="translate(0, 0)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
