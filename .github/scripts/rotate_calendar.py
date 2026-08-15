@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
-"""Rotate the isometric contribution calendar 45 degrees to the left.
+"""Rotate the isometric contribution calendar 90 degrees clockwise.
 
 Runs after lowlighter/metrics generates the SVG (and before the dark variant
 is derived from it), so both light and dark cards get the rotated graph.
-The calendar group is rotated counter-clockwise around its center and
-re-centered so the whole diamond fits inside the 480x270 viewBox at full size.
+The calendar group is rotated around its center and scaled down so the
+whole calendar fits inside the 480x270 viewBox.
 """
 
 import sys
 
 ORIGINAL = '<g transform="scale(4) translate(12, 0)">'
-ROTATED = '<g transform="scale(4) translate(12, 0) translate(9, 1.25) rotate(-45 39 29)">'
+ROTATED = '<g transform="scale(4) translate(12, 0) translate(23.82, 15.77) scale(0.62) rotate(90 39 29)">'
 
 
 def main() -> None:
