@@ -19,7 +19,7 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - uses: lowlighter/metrics@latest
         with:
@@ -38,7 +38,7 @@ jobs:
           plugin_licenses_ratio: yes
           config_display: large
 
-      - name: Rotate isometric calendar 45 degrees left
+      - name: Rotate isometric calendar
         run: |
           cp /metrics_renders/github-metrics-light.svg ./github-metrics-light.svg
           python3 .github/scripts/rotate_calendar.py github-metrics-light.svg
