@@ -27,7 +27,7 @@
 ## 📦 My public repositories
 
 <!-- STATUS:START -->
-**35 public repos** · **0 released** · **35 in development**
+**38 public repos** · **0 released** · **38 in development**
 <!-- STATUS:END -->
 
 <!-- REPOS:START -->
@@ -38,6 +38,7 @@
 | [autocommit](https://github.com/Gyerchak/autocommit) | 🚧 in development |  | Shell | ⭐ 0 |
 | [AzerbajianInteligence](https://github.com/Gyerchak/AzerbajianInteligence) | 🚧 in development |  | Shell | ⭐ 0 |
 | [calldeepseek](https://github.com/Gyerchak/calldeepseek) | 🚧 in development |  | Shell | ⭐ 0 |
+| [CodePreferences](https://github.com/Gyerchak/CodePreferences) | 🚧 in development |  | Shell | ⭐ 0 |
 | [CopyRightsChecker](https://github.com/Gyerchak/CopyRightsChecker) | 🚧 in development |  | Shell | ⭐ 0 |
 | [DemandPolandEu](https://github.com/Gyerchak/DemandPolandEu) | 🚧 in development |  | C++ | ⭐ 0 |
 | [DenSupply](https://github.com/Gyerchak/DenSupply) | 🚧 in development |  | Shell | ⭐ 0 |
@@ -47,6 +48,7 @@
 | [HeadControll](https://github.com/Gyerchak/HeadControll) | 🚧 in development |  | Shell | ⭐ 0 |
 | [HistorAI](https://github.com/Gyerchak/HistorAI) | 🚧 in development |  | Shell | ⭐ 0 |
 | [LinuxXiaomiWatchApp](https://github.com/Gyerchak/LinuxXiaomiWatchApp) | 🚧 in development |  | Shell | ⭐ 0 |
+| [LocalWaste](https://github.com/Gyerchak/LocalWaste) | 🚧 in development |  | Shell | ⭐ 0 |
 | [MAAW-Bot](https://github.com/Gyerchak/MAAW-Bot) | 🚧 in development |  | Shell | ⭐ 0 |
 | [MaawSupply](https://github.com/Gyerchak/MaawSupply) | 🚧 in development |  | Shell | ⭐ 0 |
 | [Maxim](https://github.com/Gyerchak/Maxim) | 🚧 in development |  | Shell | ⭐ 0 |
@@ -60,6 +62,7 @@
 | [OpenCodeLiveTranslator](https://github.com/Gyerchak/OpenCodeLiveTranslator) | 🚧 in development |  | Shell | ⭐ 0 |
 | [opensidebar](https://github.com/Gyerchak/opensidebar) | 🚧 in development |  | Python | ⭐ 0 |
 | [ProjectTXT](https://github.com/Gyerchak/ProjectTXT) | 🚧 in development |  | C++ | ⭐ 0 |
+| [providers](https://github.com/Gyerchak/providers) | 🚧 in development |  | Shell | ⭐ 0 |
 | [Remote-OpenCode-DiscordBot](https://github.com/Gyerchak/Remote-OpenCode-DiscordBot) | 🚧 in development |  | Shell | ⭐ 0 |
 | [SekretArek](https://github.com/Gyerchak/SekretArek) | 🚧 in development |  | Shell | ⭐ 0 |
 | [ShrimpFarmer-Agent](https://github.com/Gyerchak/ShrimpFarmer-Agent) | 🚧 in development |  | Shell | ⭐ 0 |
