@@ -17,9 +17,9 @@
 ## 📊 Metrics
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-metrics-dark.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="./github-metrics-light.svg#gh-light-mode-only">
-  <img alt="GitHub Metrics" src="./github-metrics-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./github-metrics-dark.svg?v=202608152155#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="./github-metrics-light.svg?v=202608152155#gh-light-mode-only">
+  <img alt="GitHub Metrics" src="./github-metrics-light.svg?v=202608152155">
 </picture>
 
 ---
