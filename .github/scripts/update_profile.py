@@ -146,8 +146,8 @@ def main():
     ) % (len(repos), len(released_names), len(repos) - len(released_names))
 
     lines = [
-        "| Repo | Status | Description | Language | Stars |",
-        "|------|--------|-------------|----------|-------|",
+        "| Repo | Status | Description | Language | License | Stars |",
+        "|------|--------|-------------|----------|---------|-------|",
     ]
     for r in repos:
         name = r["name"]
@@ -159,10 +159,11 @@ def main():
             status_cell = "🚧 in development"
         desc = (r.get("description") or "").replace("|", "/")
         lang = r.get("language") or "—"
+        lic = (r.get("license") or {}).get("spdx_id") or "—"
         stars = r.get("stargazers_count", 0)
         lines.append(
-            "| [%s](https://github.com/%s/%s) | %s | %s | %s | ⭐ %s |"
-            % (name, OWNER, name, status_cell, desc, lang, stars)
+            "| [%s](https://github.com/%s/%s) | %s | %s | %s | %s | ⭐ %s |"
+            % (name, OWNER, name, status_cell, desc, lang, lic, stars)
         )
 
     with open("README.md") as f:
