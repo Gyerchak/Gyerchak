@@ -27,7 +27,7 @@
 ## 📦 My public repositories
 
 <!-- STATUS:START -->
-**33 public repos** · **0 released** · **33 in development**
+**35 public repos** · **0 released** · **35 in development**
 <!-- STATUS:END -->
 
 <!-- REPOS:START -->
@@ -35,6 +35,7 @@
 |------|--------|-------------|----------|-------|
 | [AiBotniak](https://github.com/Gyerchak/AiBotniak) | 🚧 in development |  | Shell | ⭐ 0 |
 | [AiGrejhak](https://github.com/Gyerchak/AiGrejhak) | 🚧 in development |  | Shell | ⭐ 0 |
+| [autocommit](https://github.com/Gyerchak/autocommit) | 🚧 in development |  | Shell | ⭐ 0 |
 | [AzerbajianInteligence](https://github.com/Gyerchak/AzerbajianInteligence) | 🚧 in development |  | Shell | ⭐ 0 |
 | [calldeepseek](https://github.com/Gyerchak/calldeepseek) | 🚧 in development |  | Shell | ⭐ 0 |
 | [CopyRightsChecker](https://github.com/Gyerchak/CopyRightsChecker) | 🚧 in development |  | Shell | ⭐ 0 |
@@ -54,6 +55,7 @@
 | [NiceEuTransparency](https://github.com/Gyerchak/NiceEuTransparency) | 🚧 in development |  | Shell | ⭐ 0 |
 | [nonstop](https://github.com/Gyerchak/nonstop) | 🚧 in development |  | Shell | ⭐ 0 |
 | [OpenCode-DiscordBot](https://github.com/Gyerchak/OpenCode-DiscordBot) | 🚧 in development |  | Shell | ⭐ 0 |
+| [OpenCodeAndroidChat](https://github.com/Gyerchak/OpenCodeAndroidChat) | 🚧 in development |  | Shell | ⭐ 0 |
 | [OpenCodeBox](https://github.com/Gyerchak/OpenCodeBox) | 🚧 in development |  | Shell | ⭐ 0 |
 | [OpenCodeLiveTranslator](https://github.com/Gyerchak/OpenCodeLiveTranslator) | 🚧 in development |  | Shell | ⭐ 0 |
 | [opensidebar](https://github.com/Gyerchak/opensidebar) | 🚧 in development |  | Python | ⭐ 0 |
