@@ -2,11 +2,11 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * 0"  # weekly, Sunday 00:00 UTC
+    - cron: "0 2 * * *"  # daily, 02:00 UTC
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [".github/workflows/metrics.yml", ".github/scripts/darkify.py"]
+    paths: [".github/workflows/metrics.yml", ".github/scripts/darkify.py", ".github/scripts/rotate_calendar.py"]
 
 permissions:
   contents: write
@@ -38,10 +38,13 @@ jobs:
           plugin_licenses_ratio: yes
           config_display: large
 
-      - name: Generate dark-mode variant
+      - name: Rotate isometric calendar 45 degrees left
         run: |
           cp /metrics_renders/github-metrics-light.svg ./github-metrics-light.svg
-          python3 .github/scripts/darkify.py github-metrics-light.svg github-metrics-dark.svg
+          python3 .github/scripts/rotate_calendar.py github-metrics-light.svg
+
+      - name: Generate dark-mode variant
+        run: python3 .github/scripts/darkify.py github-metrics-light.svg github-metrics-dark.svg
 
       - name: Commit metrics
         run: |
