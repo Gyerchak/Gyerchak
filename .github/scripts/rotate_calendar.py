@@ -3,14 +3,14 @@
 
 Runs after lowlighter/metrics generates the SVG (and before the dark variant
 is derived from it), so both light and dark cards get the rotated graph.
-The calendar group is rotated counter-clockwise around its center and scaled
-down so the whole diamond still fits inside the 480x270 viewBox.
+The calendar group is rotated counter-clockwise around its center and
+re-centered so the whole diamond fits inside the 480x270 viewBox at full size.
 """
 
 import sys
 
 ORIGINAL = '<g transform="scale(4) translate(12, 0)">'
-ROTATED = '<g transform="scale(4) translate(12, 0) translate(26.94, 18.09) scale(0.54) rotate(-45 39 29)">'
+ROTATED = '<g transform="scale(4) translate(12, 0) translate(9, 1.25) rotate(-45 39 29)">'
 
 
 def main() -> None:
