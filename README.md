@@ -64,8 +64,8 @@
 | [StockAnalyzer](https://github.com/Gyerchak/StockAnalyzer) | 🚧 in development |  | C++ | ⭐ 0 |
 | [SystemDefeanMuteSyncDiscordPlugin](https://github.com/Gyerchak/SystemDefeanMuteSyncDiscordPlugin) | 🚧 in development |  | Shell | ⭐ 0 |
 | [UserAidjuster](https://github.com/Gyerchak/UserAidjuster) | 🚧 in development |  | Shell | ⭐ 0 |
-| [XiamomiWatchLinuxConnect](https://github.com/Gyerchak/XiamomiWatchLinuxConnect) | 🚧 in development |  | Shell | ⭐ 0 |
 | [XiaomiWatchApp](https://github.com/Gyerchak/XiaomiWatchApp) | 🚧 in development |  | Shell | ⭐ 0 |
+| [XiaomiWatchLinuxConnect](https://github.com/Gyerchak/XiaomiWatchLinuxConnect) | 🚧 in development |  | Shell | ⭐ 0 |
 <!-- REPOS:END -->
 
 ---
