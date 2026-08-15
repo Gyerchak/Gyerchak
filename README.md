@@ -27,15 +27,20 @@
 ## 📦 My public repositories
 
 <!-- STATUS:START -->
-**24 public repos** · **0 released** · **24 in development**
+**33 public repos** · **0 released** · **33 in development**
 <!-- STATUS:END -->
 
 <!-- REPOS:START -->
 | Repo | Status | Description | Language | Stars |
 |------|--------|-------------|----------|-------|
+| [AiBotniak](https://github.com/Gyerchak/AiBotniak) | 🚧 in development |  | Shell | ⭐ 0 |
+| [AiGrejhak](https://github.com/Gyerchak/AiGrejhak) | 🚧 in development |  | Shell | ⭐ 0 |
 | [AzerbajianInteligence](https://github.com/Gyerchak/AzerbajianInteligence) | 🚧 in development |  | Shell | ⭐ 0 |
+| [calldeepseek](https://github.com/Gyerchak/calldeepseek) | 🚧 in development |  | Shell | ⭐ 0 |
+| [CopyRightsChecker](https://github.com/Gyerchak/CopyRightsChecker) | 🚧 in development |  | Shell | ⭐ 0 |
 | [DemandPolandEu](https://github.com/Gyerchak/DemandPolandEu) | 🚧 in development |  | C++ | ⭐ 0 |
 | [DenSupply](https://github.com/Gyerchak/DenSupply) | 🚧 in development |  | Shell | ⭐ 0 |
+| [EuTransparencyChecker](https://github.com/Gyerchak/EuTransparencyChecker) | 🚧 in development |  | Shell | ⭐ 0 |
 | [GameTemplate](https://github.com/Gyerchak/GameTemplate) | 🚧 in development |  | Shell | ⭐ 0 |
 | [Globe-Game](https://github.com/Gyerchak/Globe-Game) | 🚧 in development |  | C++ | ⭐ 0 |
 | [HeadControll](https://github.com/Gyerchak/HeadControll) | 🚧 in development |  | Shell | ⭐ 0 |
@@ -47,14 +52,18 @@
 | [Minkraft](https://github.com/Gyerchak/Minkraft) | 🚧 in development |  | C++ | ⭐ 0 |
 | [Moba](https://github.com/Gyerchak/Moba) | 🚧 in development |  | C++ | ⭐ 0 |
 | [NiceEuTransparency](https://github.com/Gyerchak/NiceEuTransparency) | 🚧 in development |  | Shell | ⭐ 0 |
+| [nonstop](https://github.com/Gyerchak/nonstop) | 🚧 in development |  | Shell | ⭐ 0 |
 | [OpenCode-DiscordBot](https://github.com/Gyerchak/OpenCode-DiscordBot) | 🚧 in development |  | Shell | ⭐ 0 |
 | [OpenCodeBox](https://github.com/Gyerchak/OpenCodeBox) | 🚧 in development |  | Shell | ⭐ 0 |
 | [OpenCodeLiveTranslator](https://github.com/Gyerchak/OpenCodeLiveTranslator) | 🚧 in development |  | Shell | ⭐ 0 |
+| [opensidebar](https://github.com/Gyerchak/opensidebar) | 🚧 in development |  | Python | ⭐ 0 |
 | [ProjectTXT](https://github.com/Gyerchak/ProjectTXT) | 🚧 in development |  | C++ | ⭐ 0 |
+| [Remote-OpenCode-DiscordBot](https://github.com/Gyerchak/Remote-OpenCode-DiscordBot) | 🚧 in development |  | Shell | ⭐ 0 |
 | [SekretArek](https://github.com/Gyerchak/SekretArek) | 🚧 in development |  | Shell | ⭐ 0 |
 | [ShrimpFarmer-Agent](https://github.com/Gyerchak/ShrimpFarmer-Agent) | 🚧 in development |  | Shell | ⭐ 0 |
 | [StockAnalyzer](https://github.com/Gyerchak/StockAnalyzer) | 🚧 in development |  | C++ | ⭐ 0 |
 | [SystemDefeanMuteSyncDiscordPlugin](https://github.com/Gyerchak/SystemDefeanMuteSyncDiscordPlugin) | 🚧 in development |  | Shell | ⭐ 0 |
+| [UserAidjuster](https://github.com/Gyerchak/UserAidjuster) | 🚧 in development |  | Shell | ⭐ 0 |
 | [XiamomiWatchLinuxConnect](https://github.com/Gyerchak/XiamomiWatchLinuxConnect) | 🚧 in development |  | Shell | ⭐ 0 |
 | [XiaomiWatchApp](https://github.com/Gyerchak/XiaomiWatchApp) | 🚧 in development |  | Shell | ⭐ 0 |
 <!-- REPOS:END -->
