@@ -9,8 +9,6 @@ on:
     paths:
       - ".github/workflows/update-profile.yml"
       - ".github/scripts/update_profile.py"
-      - ".github/scripts/calendar.py"
-      - ".github/scripts/darkify.py"
 
 permissions:
   contents: write
@@ -26,14 +24,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate contribution calendars
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          python3 .github/scripts/calendar.py
-          python3 .github/scripts/darkify.py contributions.svg contributions-dark.svg
-
-      - name: Generate README sections (pinned cards + repo list)
+      - name: Generate README sections (repo list)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 .github/scripts/update_profile.py
@@ -42,9 +33,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md contributions.svg contributions-dark.svg
+          git add README.md
           if ! git diff --cached --quiet; then
-            git commit -m "chore: refresh profile (pins, repos, calendars)"
+            git commit -m "chore: refresh profile (repos)"
             git pull --rebase origin main
             git push
           fi
