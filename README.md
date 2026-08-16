@@ -42,7 +42,7 @@
 | [HeadControll](https://github.com/Gyerchak/HeadControll) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
 | [LinuxXiaomiWatchApp](https://github.com/Gyerchak/LinuxXiaomiWatchApp) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
 | [MAAW-Bot](https://github.com/Gyerchak/MAAW-Bot) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
-| [MaawSupply](https://github.com/Gyerchak/MaawSupply) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
+| [MAAW-Supply](https://github.com/Gyerchak/MAAW-Supply) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
 | [Maxim](https://github.com/Gyerchak/Maxim) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
 | [Minkraft](https://github.com/Gyerchak/Minkraft) | 🚧 in development |  | C++ | MIT | ⭐ 0 |
 | [Moba](https://github.com/Gyerchak/Moba) | 🚧 in development |  | C++ | MIT | ⭐ 0 |
