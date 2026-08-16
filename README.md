@@ -34,7 +34,7 @@
 | Repo | Status | Description | Language | License | Stars |
 |------|--------|-------------|----------|---------|-------|
 | [AzerbajianInteligence](https://github.com/Gyerchak/AzerbajianInteligence) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
-| [calldeepseek](https://github.com/Gyerchak/calldeepseek) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
+| [CallDeepseek](https://github.com/Gyerchak/CallDeepseek) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
 | [CopyRightsChecker](https://github.com/Gyerchak/CopyRightsChecker) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
 | [DemandPolandEu](https://github.com/Gyerchak/DemandPolandEu) | 🚧 in development |  | C++ | MIT | ⭐ 0 |
 | [DenSupply](https://github.com/Gyerchak/DenSupply) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
