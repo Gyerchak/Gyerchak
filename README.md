@@ -27,37 +27,13 @@
 ## 📦 My public repositories
 
 <!-- STATUS:START -->
-**25 public repos** · **0 released** · **25 in development**
+**1 public repos** · **0 released** · **1 in development**
 <!-- STATUS:END -->
 
 <!-- REPOS:START -->
 | Repo | Status | Description | Language | License | Stars |
 |------|--------|-------------|----------|---------|-------|
-| [AzerbajianInteligence](https://github.com/Gyerchak/AzerbajianInteligence) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
-| [CallOpenCode](https://github.com/Gyerchak/CallOpenCode) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
-| [CopyRightsChecker](https://github.com/Gyerchak/CopyRightsChecker) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
-| [DemandPolandEu](https://github.com/Gyerchak/DemandPolandEu) | 🚧 in development |  | C++ | MIT | ⭐ 0 |
-| [DenSupply](https://github.com/Gyerchak/DenSupply) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
 | [Globe-Game](https://github.com/Gyerchak/Globe-Game) | 🚧 in development |  | C++ | MIT | ⭐ 0 |
-| [HeadControll](https://github.com/Gyerchak/HeadControll) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
-| [LinuxXiaomiWatchApp](https://github.com/Gyerchak/LinuxXiaomiWatchApp) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
-| [MAAW-Bot](https://github.com/Gyerchak/MAAW-Bot) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
-| [MAAW-Supply](https://github.com/Gyerchak/MAAW-Supply) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
-| [Maxim](https://github.com/Gyerchak/Maxim) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
-| [Minkraft](https://github.com/Gyerchak/Minkraft) | 🚧 in development |  | C++ | MIT | ⭐ 0 |
-| [Moba](https://github.com/Gyerchak/Moba) | 🚧 in development |  | C++ | MIT | ⭐ 0 |
-| [NiceEuTransparency](https://github.com/Gyerchak/NiceEuTransparency) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
-| [OpenCode-DiscordBot](https://github.com/Gyerchak/OpenCode-DiscordBot) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
-| [OpenCodeAndroidChat](https://github.com/Gyerchak/OpenCodeAndroidChat) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
-| [OpenCodeBox](https://github.com/Gyerchak/OpenCodeBox) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
-| [OpenCodeLiveTranslator](https://github.com/Gyerchak/OpenCodeLiveTranslator) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
-| [ProjectTXT](https://github.com/Gyerchak/ProjectTXT) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
-| [Remote-OpenCode-DiscordBot](https://github.com/Gyerchak/Remote-OpenCode-DiscordBot) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
-| [SekretArek](https://github.com/Gyerchak/SekretArek) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
-| [StockAnalyzer](https://github.com/Gyerchak/StockAnalyzer) | 🚧 in development |  | C++ | MIT | ⭐ 0 |
-| [SystemDefeanMuteSyncDiscordPlugin](https://github.com/Gyerchak/SystemDefeanMuteSyncDiscordPlugin) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
-| [XiaomiWatchApp](https://github.com/Gyerchak/XiaomiWatchApp) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
-| [XiaomiWatchLinuxConnect](https://github.com/Gyerchak/XiaomiWatchLinuxConnect) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
 <!-- REPOS:END -->
 
 ---
