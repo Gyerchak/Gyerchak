@@ -51,7 +51,7 @@
 | [OpenCodeAndroidChat](https://github.com/Gyerchak/OpenCodeAndroidChat) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
 | [OpenCodeBox](https://github.com/Gyerchak/OpenCodeBox) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
 | [OpenCodeLiveTranslator](https://github.com/Gyerchak/OpenCodeLiveTranslator) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
-| [ProjectTXT](https://github.com/Gyerchak/ProjectTXT) | 🚧 in development |  | C++ | MIT | ⭐ 0 |
+| [ProjectTXT](https://github.com/Gyerchak/ProjectTXT) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
 | [Remote-OpenCode-DiscordBot](https://github.com/Gyerchak/Remote-OpenCode-DiscordBot) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
 | [SekretArek](https://github.com/Gyerchak/SekretArek) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
 | [StockAnalyzer](https://github.com/Gyerchak/StockAnalyzer) | 🚧 in development |  | C++ | MIT | ⭐ 0 |
