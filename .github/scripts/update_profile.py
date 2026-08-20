@@ -199,7 +199,9 @@ def main():
             n_released += 1
         else:
             n_dev += 1
-    parts = [f"**{len(repos)} public repos**", f"**{n_released} released**"]
+    parts = [f"**{len(repos)} public repos**"]
+    if n_released:
+        parts.append(f"**{n_released} released**")
     if n_alpha:
         parts.append(f"**{n_alpha} alpha**")
     if n_prealpha:
