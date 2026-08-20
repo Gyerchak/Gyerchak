@@ -8,8 +8,7 @@
 
 | 🚧 Status |
 |-----------|
-| **Most of my projects are in early development.** The more developed ones are in **🧪 alpha** and **🌱 pre-alpha**. |
-| ✨ **Highlight:** [OpenCode-Box-AgentMixer](https://github.com/Gyerchak/OpenCode-Box-AgentMixer) — the **alpha** version of this project. |
+| **Most of my projects are in early development.** The more developed one is in **🌱 pre-alpha**. |
 
 </div>
 
