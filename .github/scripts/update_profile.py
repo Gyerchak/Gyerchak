@@ -185,11 +185,27 @@ def main():
     for c in groups:
         groups[c].sort(key=lambda r: (not r["name"] in released_names, r["name"].lower()))
 
-    status = (
-        "**%d public repos** · "
-        "**%d released** · "
-        "**%d in development**"
-    ) % (len(repos), len(released_names), len(repos) - len(released_names))
+    n_released = n_alpha = n_prealpha = n_dev = 0
+    for r in repos:
+        ov = STATUS_OVERRIDES.get(r["name"])
+        if ov:
+            if "pre-alpha" in ov:
+                n_prealpha += 1
+            elif "alpha" in ov:
+                n_alpha += 1
+            else:
+                n_dev += 1
+        elif r["name"] in released_names:
+            n_released += 1
+        else:
+            n_dev += 1
+    parts = [f"**{len(repos)} public repos**", f"**{n_released} released**"]
+    if n_alpha:
+        parts.append(f"**{n_alpha} alpha**")
+    if n_prealpha:
+        parts.append(f"**{n_prealpha} pre-alpha**")
+    parts.append(f"**{n_dev} in development**")
+    status = " · ".join(parts)
 
     tables = render_tables(groups, cat_order, released_names)
 
