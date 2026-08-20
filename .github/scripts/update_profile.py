@@ -78,8 +78,8 @@ def replace_section(text, start, end, replacement):
 
 
 STATUS_OVERRIDES = {
-    "OpenCode-Box-AgentMixer": "🚧 alpha",
-    "Minkraft": "🚧 pre-alpha",
+    "OpenCode-Box-AgentMixer": "🧪 alpha",
+    "Minkraft": "🌱 pre-alpha",
 }
 
 def build_rows(repos, released_names):
