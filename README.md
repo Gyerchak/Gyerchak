@@ -27,7 +27,7 @@
 ## 📦 My public repositories
 
 <!-- STATUS:START -->
-**9 public repos** · **1 alpha** · **1 pre-alpha** · **7 in development**
+**8 public repos** · **1 pre-alpha** · **7 in development**
 <!-- STATUS:END -->
 
 <!-- REPOS:START -->
@@ -35,7 +35,6 @@
 
 | Repo                                                                           | Status           | Description                                                  | Language | License | Stars |
 | ------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ | -------- | ------- | ----- |
-| [OpenCode-Box-AgentMixer](https://github.com/Gyerchak/OpenCode-Box-AgentMixer) | 🧪 alpha          | A closed sandbox around opencode2 (V2 beta) + the AgentMixe… | Shell    | MIT     | ⭐ 0   |
 | [OpenCode-DiscordBot](https://github.com/Gyerchak/OpenCode-DiscordBot)         | 🚧 in development | Discord bot that connects your chat to OpenCodeBox / openco… | Shell    | MIT     | ⭐ 0   |
 
 ### 🎮 Games
