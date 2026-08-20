@@ -36,7 +36,7 @@
 
 | Repo                                                                           | Status           | Description                                                  | Language | License | Stars |
 | ------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ | -------- | ------- | ----- |
-| [OpenCode-Box-AgentMixer](https://github.com/Gyerchak/OpenCode-Box-AgentMixer) | 🚧 alpha          | A closed sandbox around opencode2 (V2 beta) + the AgentMixe… | Shell    | MIT     | ⭐ 0   |
+| [OpenCode-Box-AgentMixer](https://github.com/Gyerchak/OpenCode-Box-AgentMixer) | 🧪 alpha          | A closed sandbox around opencode2 (V2 beta) + the AgentMixe… | Shell    | MIT     | ⭐ 0   |
 | [OpenCode-DiscordBot](https://github.com/Gyerchak/OpenCode-DiscordBot)         | 🚧 in development | Discord bot that connects your chat to OpenCodeBox / openco… | Shell    | MIT     | ⭐ 0   |
 
 ### 🎮 Games
@@ -44,7 +44,7 @@
 | Repo                                                                           | Status           | Description                                                  | Language | License | Stars |
 | ------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ | -------- | ------- | ----- |
 | [Globe-Game](https://github.com/Gyerchak/Globe-Game)                           | 🚧 in development | Interactive globe game built with OpenCodeBox (C++)          | C++      | MIT     | ⭐ 0   |
-| [Minkraft](https://github.com/Gyerchak/Minkraft)                               | 🚧 pre-alpha      | Minecraft-inspired voxel sandbox / game engine project       | C++      | MIT     | ⭐ 0   |
+| [Minkraft](https://github.com/Gyerchak/Minkraft)                               | 🌱 pre-alpha      | Minecraft-inspired voxel sandbox / game engine project       | C++      | MIT     | ⭐ 0   |
 | [Moba](https://github.com/Gyerchak/Moba)                                       | 🚧 in development | Minimal multiplayer (MOBA-style) arena game prototype        | C++      | MIT     | ⭐ 0   |
 
 ### ⌚ Devices & hardware
