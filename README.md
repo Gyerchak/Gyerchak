@@ -27,13 +27,37 @@
 ## 📦 My public repositories
 
 <!-- STATUS:START -->
-**1 public repos** · **0 released** · **1 in development**
+**8 public repos** · **0 released** · **8 in development**
 <!-- STATUS:END -->
 
 <!-- REPOS:START -->
+### 🎮 Games
+
 | Repo | Status | Description | Language | License | Stars |
 |------|--------|-------------|----------|---------|-------|
 | [Globe-Game](https://github.com/Gyerchak/Globe-Game) | 🚧 in development |  | C++ | MIT | ⭐ 0 |
+| [Minkraft](https://github.com/Gyerchak/Minkraft) | 🚧 in development |  | C++ | MIT | ⭐ 0 |
+| [Moba](https://github.com/Gyerchak/Moba) | 🚧 in development |  | C++ | MIT | ⭐ 0 |
+
+### ⌚ Devices & hardware
+
+| Repo | Status | Description | Language | License | Stars |
+|------|--------|-------------|----------|---------|-------|
+| [HeadControll](https://github.com/Gyerchak/HeadControll) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
+| [XiaomiWatchLinuxConnect](https://github.com/Gyerchak/XiaomiWatchLinuxConnect) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
+
+### 📈 Markets & finance
+
+| Repo | Status | Description | Language | License | Stars |
+|------|--------|-------------|----------|---------|-------|
+| [DemandPolandEu](https://github.com/Gyerchak/DemandPolandEu) | 🚧 in development |  | C++ | MIT | ⭐ 0 |
+| [StockAnalyzer](https://github.com/Gyerchak/StockAnalyzer) | 🚧 in development |  | C++ | MIT | ⭐ 0 |
+
+### 🤖 AI, bots & agents
+
+| Repo | Status | Description | Language | License | Stars |
+|------|--------|-------------|----------|---------|-------|
+| [OpenCode-DiscordBot](https://github.com/Gyerchak/OpenCode-DiscordBot) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
 <!-- REPOS:END -->
 
 ---
