@@ -77,12 +77,19 @@ def replace_section(text, start, end, replacement):
     return pattern.sub(start + "\n" + replacement + "\n" + end, text)
 
 
+STATUS_OVERRIDES = {
+    "OpenCode-Box-AgentMixer": "🚧 alpha",
+    "Minkraft": "🚧 pre-alpha",
+}
+
 def build_rows(repos, released_names):
     """Return list of rows; each row is a list of 6 cell strings."""
     rows = []
     for r in repos:
         name = r["name"]
-        if name in released_names:
+        if name in STATUS_OVERRIDES:
+            status = STATUS_OVERRIDES[name]
+        elif name in released_names:
             tag = api("/repos/%s/%s/releases/latest" % (OWNER, name)).get("tag_name", "released")
             status = "✅ `%s`" % tag
         else:
