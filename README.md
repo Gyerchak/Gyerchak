@@ -27,10 +27,17 @@
 ## 📦 My public repositories
 
 <!-- STATUS:START -->
-**8 public repos** · **0 released** · **8 in development**
+**9 public repos** · **0 released** · **9 in development**
 <!-- STATUS:END -->
 
 <!-- REPOS:START -->
+### 🤖 AI, bots & agents
+
+| Repo                                                                           | Status           | Description                                                  | Language | License | Stars |
+| ------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ | -------- | ------- | ----- |
+| [OpenCode-Box-AgentMixer](https://github.com/Gyerchak/OpenCode-Box-AgentMixer) | 🚧 in development | Multi-system sandbox for opencode2 — layered agent settings… | Shell    | —       | ⭐ 0   |
+| [OpenCode-DiscordBot](https://github.com/Gyerchak/OpenCode-DiscordBot)         | 🚧 in development | Discord bot that connects your chat to OpenCodeBox / openco… | Shell    | MIT     | ⭐ 0   |
+
 ### 🎮 Games
 
 | Repo                                                                           | Status           | Description                                                  | Language | License | Stars |
@@ -52,12 +59,6 @@
 | ------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ | -------- | ------- | ----- |
 | [DemandPolandEu](https://github.com/Gyerchak/DemandPolandEu)                   | 🚧 in development | Market trade monitor — find profitable import/export trades… | C++      | MIT     | ⭐ 0   |
 | [StockAnalyzer](https://github.com/Gyerchak/StockAnalyzer)                     | 🚧 in development | Native stock monitoring and browse/search tool (C++20)       | C++      | MIT     | ⭐ 0   |
-
-### 🤖 AI, bots & agents
-
-| Repo                                                                           | Status           | Description                                                  | Language | License | Stars |
-| ------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ | -------- | ------- | ----- |
-| [OpenCode-DiscordBot](https://github.com/Gyerchak/OpenCode-DiscordBot)         | 🚧 in development | Discord bot that connects your chat to OpenCodeBox / openco… | Shell    | MIT     | ⭐ 0   |
 <!-- REPOS:END -->
 
 ---
