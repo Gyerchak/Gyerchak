@@ -38,13 +38,7 @@ CATEGORIZED = {
     "Remote-OpenCode-DiscordBot": "🤖 AI, bots & agents",
     "OpenCodeAndroidChat": "🤖 AI, bots & agents",
     "OpenCodeLiveTranslator": "🤖 AI, bots & agents",
-    "AiBotniak": "🤖 AI, bots & agents",
-    "HistorAI": "🤖 AI, bots & agents",
-    "ShrimpFarmer-Agent": "🤖 AI, bots & agents",
     "MAAW-Bot": "🤖 AI, bots & agents",
-    "EuTransparencyChecker": "🌍 EU & transparency",
-    "NiceEuTransparency": "🌍 EU & transparency",
-    "CopyRightsChecker": "🌍 EU & transparency",
     "EuDemand": "🌍 EU & transparency",
 }
 
@@ -223,3 +217,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
