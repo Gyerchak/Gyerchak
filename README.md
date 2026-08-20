@@ -35,29 +35,29 @@
 
 | Repo | Status | Description | Language | License | Stars |
 |------|--------|-------------|----------|---------|-------|
-| [Globe-Game](https://github.com/Gyerchak/Globe-Game) | 🚧 in development |  | C++ | MIT | ⭐ 0 |
-| [Minkraft](https://github.com/Gyerchak/Minkraft) | 🚧 in development |  | C++ | MIT | ⭐ 0 |
-| [Moba](https://github.com/Gyerchak/Moba) | 🚧 in development |  | C++ | MIT | ⭐ 0 |
+| [Globe-Game](https://github.com/Gyerchak/Globe-Game) | 🚧 in development | Interactive globe game built with OpenCodeBox (C++) | C++ | MIT | ⭐ 0 |
+| [Minkraft](https://github.com/Gyerchak/Minkraft) | 🚧 in development | Minecraft-inspired voxel sandbox / game engine project | C++ | MIT | ⭐ 0 |
+| [Moba](https://github.com/Gyerchak/Moba) | 🚧 in development | Minimal multiplayer (MOBA-style) arena game prototype | C++ | MIT | ⭐ 0 |
 
 ### ⌚ Devices & hardware
 
 | Repo | Status | Description | Language | License | Stars |
 |------|--------|-------------|----------|---------|-------|
-| [HeadControll](https://github.com/Gyerchak/HeadControll) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
-| [XiaomiWatchLinuxConnect](https://github.com/Gyerchak/XiaomiWatchLinuxConnect) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
+| [HeadControll](https://github.com/Gyerchak/HeadControll) | 🚧 in development | Camera-based head-motion hands-free control — control your PC by moving your head | Shell | MIT | ⭐ 0 |
+| [XiaomiWatchLinuxConnect](https://github.com/Gyerchak/XiaomiWatchLinuxConnect) | 🚧 in development | Connect and manage your Xiaomi watch from Linux | Shell | MIT | ⭐ 0 |
 
 ### 📈 Markets & finance
 
 | Repo | Status | Description | Language | License | Stars |
 |------|--------|-------------|----------|---------|-------|
-| [DemandPolandEu](https://github.com/Gyerchak/DemandPolandEu) | 🚧 in development |  | C++ | MIT | ⭐ 0 |
-| [StockAnalyzer](https://github.com/Gyerchak/StockAnalyzer) | 🚧 in development |  | C++ | MIT | ⭐ 0 |
+| [DemandPolandEu](https://github.com/Gyerchak/DemandPolandEu) | 🚧 in development | Market trade monitor — find profitable import/export trades between EU markets | C++ | MIT | ⭐ 0 |
+| [StockAnalyzer](https://github.com/Gyerchak/StockAnalyzer) | 🚧 in development | Native stock monitoring and browse/search tool (C++20) | C++ | MIT | ⭐ 0 |
 
 ### 🤖 AI, bots & agents
 
 | Repo | Status | Description | Language | License | Stars |
 |------|--------|-------------|----------|---------|-------|
-| [OpenCode-DiscordBot](https://github.com/Gyerchak/OpenCode-DiscordBot) | 🚧 in development |  | Shell | MIT | ⭐ 0 |
+| [OpenCode-DiscordBot](https://github.com/Gyerchak/OpenCode-DiscordBot) | 🚧 in development | Discord bot that connects your chat to OpenCodeBox / opencode | Shell | MIT | ⭐ 0 |
 <!-- REPOS:END -->
 
 ---
