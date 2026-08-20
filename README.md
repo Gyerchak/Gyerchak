@@ -9,7 +9,7 @@
 | 🚧 Status |
 |-----------|
 | **All public repositories are currently under development.** A repo shows **✅ Released** once it has a GitHub release — until then it's **🚧 in development**. |
-| ✨ **Highlight:** [OpenCode-Box-AgentMixer](https://github.com/Gyerchak/OpenCode-Box-AgentMixer) — the **pre-alpha** version of this project. |
+| ✨ **Highlight:** [OpenCode-Box-AgentMixer](https://github.com/Gyerchak/OpenCode-Box-AgentMixer) — the **alpha** version of this project. |
 
 </div>
 
