@@ -33,6 +33,7 @@ CATEGORIZED = {
     "DemandPolandEu": "📈 Markets & finance",
     "DenSupply": "📈 Markets & finance",
     "MAAW-Supply": "📈 Markets & finance",
+    "OpenCode-Box-AgentMixer": "🤖 AI, bots & agents",
     "OpenCode-DiscordBot": "🤖 AI, bots & agents",
     "Remote-OpenCode-DiscordBot": "🤖 AI, bots & agents",
     "OpenCodeAndroidChat": "🤖 AI, bots & agents",
@@ -160,7 +161,11 @@ def main():
         if has_release(r["name"]):
             released_names.add(r["name"])
 
-    cat_order = [c for c in dict.fromkeys(CATEGORIZED.values())]
+    preferred = ["🤖 AI, bots & agents", "🎮 Games", "⌚ Devices & hardware", "📈 Markets & finance", "🌍 EU & transparency"]
+    cat_order = [c for c in preferred if c in set(CATEGORIZED.values())]
+    for c in dict.fromkeys(CATEGORIZED.values()):
+        if c not in cat_order:
+            cat_order.append(c)
     for c in set(CATEGORIZED.values()):
         if c not in cat_order:
             cat_order.append(c)
