@@ -8,7 +8,7 @@
 
 | 🚧 Status |
 |-----------|
-| **All public repositories are currently under development.** A repo shows **✅ Released** once it has a GitHub release — until then it's **🚧 in development**. |
+| **Most of my projects are in early development.** The more developed ones are in **🧪 alpha** and **🌱 pre-alpha**. |
 | ✨ **Highlight:** [OpenCode-Box-AgentMixer](https://github.com/Gyerchak/OpenCode-Box-AgentMixer) — the **alpha** version of this project. |
 
 </div>
@@ -62,6 +62,4 @@
 | [StockAnalyzer](https://github.com/Gyerchak/StockAnalyzer)                     | 🚧 in development | Native stock monitoring and browse/search tool (C++20)       | C++      | MIT     | ⭐ 0   |
 <!-- REPOS:END -->
 
----
 
-<sub>Auto-updated by a scheduled GitHub Action. Repo status and the metrics card (isometric contribution calendar, languages) are regenerated automatically; repo status is "released" when the repo has a GitHub release, otherwise "in development".</sub>
