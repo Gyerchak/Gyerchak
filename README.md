@@ -28,7 +28,7 @@
 ## 📦 My public repositories
 
 <!-- STATUS:START -->
-**9 public repos** · **0 released** · **9 in development**
+**9 public repos** · **0 released** · **1 alpha** · **1 pre-alpha** · **7 in development**
 <!-- STATUS:END -->
 
 <!-- REPOS:START -->
