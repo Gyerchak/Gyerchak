@@ -35,7 +35,7 @@
 
 | Repo                                                                           | Status           | Description                                                  | Language | License | Stars |
 | ------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ | -------- | ------- | ----- |
-| [OpenCode-DiscordBot](https://github.com/Gyerchak/OpenCode-DiscordBot)         | 🚧 in development | Discord bot that connects your chat to OpenCodeBox / openco… | Shell    | MIT     | ⭐ 0   |
+| [OpenCode-DiscordBot](https://github.com/Gyerchak/OpenCode-DiscordBot)         | 🚧 in development | Discord bot that connects your chat to OpenCodeBox / openco… | Python   | MIT     | ⭐ 0   |
 
 ### 🎮 Games
 
