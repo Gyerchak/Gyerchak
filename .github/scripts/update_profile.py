@@ -40,6 +40,7 @@ CATEGORIZED = {
     "OpenCodeLiveTranslator": "🤖 AI, bots & agents",
     "MAAW-Bot": "🤖 AI, bots & agents",
     "EuDemand": "🌍 EU & transparency",
+    "TierMaker-LLM": "🏆 Completed projects",
 }
 
 OTHER = "🗂️ Everything else"
@@ -74,6 +75,7 @@ def replace_section(text, start, end, replacement):
 STATUS_OVERRIDES = {
     "OpenCode-Box-AgentMixer": "🧪 alpha",
     "Minkraft": "🌱 pre-alpha",
+    "TierMaker-LLM": "✅ Completed / live project",
 }
 
 def build_rows(repos, released_names):
@@ -162,7 +164,7 @@ def main():
         if has_release(r["name"]):
             released_names.add(r["name"])
 
-    preferred = ["🤖 AI, bots & agents", "🎮 Games", "⌚ Devices & hardware", "📈 Markets & finance", "🌍 EU & transparency"]
+    preferred = ["🏆 Completed projects", "🤖 AI, bots & agents", "🎮 Games", "⌚ Devices & hardware", "📈 Markets & finance", "🌍 EU & transparency"]
     cat_order = [c for c in preferred if c in set(CATEGORIZED.values())]
     for c in dict.fromkeys(CATEGORIZED.values()):
         if c not in cat_order:
@@ -187,6 +189,8 @@ def main():
                 n_prealpha += 1
             elif "alpha" in ov:
                 n_alpha += 1
+            elif "Completed" in ov:
+                n_released += 1
             else:
                 n_dev += 1
         elif r["name"] in released_names:
