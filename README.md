@@ -14,6 +14,27 @@
 
 ---
 
+
+## 🏆 Featured: completed project
+
+<div align="center">
+
+[![TierMaker-LLM](https://img.shields.io/badge/Project-TierMaker--LLM-2ea44f?style=for-the-badge)](https://github.com/Gyerchak/TierMaker-LLM)
+[![Status](https://img.shields.io/badge/Status-Completed%20%2F%20Live-success?style=for-the-badge)](https://github.com/Gyerchak/TierMaker-LLM/releases)
+[![Tiles](https://img.shields.io/badge/314%20tiles-1024x1024-blue?style=for-the-badge)](https://github.com/Gyerchak/TierMaker-LLM)
+
+### 🔥 TierMaker-LLM — September 2026 LLM Tier List template
+
+A **complete, live project** — 314 branded tier-list tiles (1024×1024, dark theme) with official logos,
+verified release dates and full source attribution. Built from the **Artificial Analysis Intelligence
+Index (≥30)** + the **OpenCode workspace**, ready to upload on TierMaker.
+
+[▶ View the project](https://github.com/Gyerchak/TierMaker-LLM) &nbsp;·&nbsp;
+[Cover art](https://github.com/Gyerchak/TierMaker-LLM#contents)
+
+</div>
+
+---
 ## 📊 Metrics
 
 <picture>
