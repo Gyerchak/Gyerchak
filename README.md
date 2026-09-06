@@ -6,10 +6,6 @@
 
 <h2 align="center">"aka GitHub Slop"</h2>
 
-| 🚧 Status |
-|-----------|
-| **Most of my projects are in early development.** The more developed one is in **🌱 pre-alpha**. |
-
 </div>
 
 ---
