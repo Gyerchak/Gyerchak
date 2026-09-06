@@ -48,37 +48,43 @@ Index (≥30)** + the **OpenCode workspace**, ready to upload on TierMaker.
 ## 📦 My public repositories
 
 <!-- STATUS:START -->
-**8 public repos** · **1 pre-alpha** · **7 in development**
+**9 public repos** · **1 released** · **1 pre-alpha** · **7 in development**
 <!-- STATUS:END -->
 
 <!-- REPOS:START -->
+### 🏆 Completed projects
+
+| Repo                                                                           | Status                     | Description                                                  | Language | License | Stars |
+| ------------------------------------------------------------------------------ | -------------------------- | ------------------------------------------------------------ | -------- | ------- | ----- |
+| [TierMaker-LLM](https://github.com/Gyerchak/TierMaker-LLM)                     | ✅ Completed / live project | September 2026 LLM tier list template graphics: 314 branded… | —        | —       | ⭐ 0   |
+
 ### 🤖 AI, bots & agents
 
-| Repo                                                                           | Status           | Description                                                  | Language | License | Stars |
-| ------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ | -------- | ------- | ----- |
-| [OpenCode-DiscordBot](https://github.com/Gyerchak/OpenCode-DiscordBot)         | 🚧 in development | Discord bot that connects your chat to OpenCodeBox / openco… | Python   | MIT     | ⭐ 0   |
+| Repo                                                                           | Status                     | Description                                                  | Language | License | Stars |
+| ------------------------------------------------------------------------------ | -------------------------- | ------------------------------------------------------------ | -------- | ------- | ----- |
+| [OpenCode-DiscordBot](https://github.com/Gyerchak/OpenCode-DiscordBot)         | 🚧 in development           | Discord bot that connects your chat to OpenCodeBox / openco… | Python   | MIT     | ⭐ 0   |
 
 ### 🎮 Games
 
-| Repo                                                                           | Status           | Description                                                  | Language | License | Stars |
-| ------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ | -------- | ------- | ----- |
-| [Globe-Game](https://github.com/Gyerchak/Globe-Game)                           | 🚧 in development | Interactive globe game built with OpenCodeBox (C++)          | C++      | MIT     | ⭐ 0   |
-| [Minkraft](https://github.com/Gyerchak/Minkraft)                               | 🌱 pre-alpha      | Minecraft-inspired voxel sandbox / game engine project       | C++      | MIT     | ⭐ 0   |
-| [Moba](https://github.com/Gyerchak/Moba)                                       | 🚧 in development | Minimal multiplayer (MOBA-style) arena game prototype        | C++      | MIT     | ⭐ 0   |
+| Repo                                                                           | Status                     | Description                                                  | Language | License | Stars |
+| ------------------------------------------------------------------------------ | -------------------------- | ------------------------------------------------------------ | -------- | ------- | ----- |
+| [Globe-Game](https://github.com/Gyerchak/Globe-Game)                           | 🚧 in development           | Interactive globe game built with OpenCodeBox (C++)          | C++      | MIT     | ⭐ 0   |
+| [Minkraft](https://github.com/Gyerchak/Minkraft)                               | 🌱 pre-alpha                | Minecraft-inspired voxel sandbox / game engine project       | C++      | MIT     | ⭐ 0   |
+| [Moba](https://github.com/Gyerchak/Moba)                                       | 🚧 in development           | Minimal multiplayer (MOBA-style) arena game prototype        | C++      | MIT     | ⭐ 0   |
 
 ### ⌚ Devices & hardware
 
-| Repo                                                                           | Status           | Description                                                  | Language | License | Stars |
-| ------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ | -------- | ------- | ----- |
-| [HeadControll](https://github.com/Gyerchak/HeadControll)                       | 🚧 in development | Camera-based head-motion hands-free control — control your … | Shell    | MIT     | ⭐ 0   |
-| [XiaomiWatchLinuxConnect](https://github.com/Gyerchak/XiaomiWatchLinuxConnect) | 🚧 in development | Connect and manage your Xiaomi watch from Linux              | Shell    | MIT     | ⭐ 0   |
+| Repo                                                                           | Status                     | Description                                                  | Language | License | Stars |
+| ------------------------------------------------------------------------------ | -------------------------- | ------------------------------------------------------------ | -------- | ------- | ----- |
+| [HeadControll](https://github.com/Gyerchak/HeadControll)                       | 🚧 in development           | Camera-based head-motion hands-free control — control your … | Shell    | MIT     | ⭐ 0   |
+| [XiaomiWatchLinuxConnect](https://github.com/Gyerchak/XiaomiWatchLinuxConnect) | 🚧 in development           | Connect and manage your Xiaomi watch from Linux              | Shell    | MIT     | ⭐ 0   |
 
 ### 📈 Markets & finance
 
-| Repo                                                                           | Status           | Description                                                  | Language | License | Stars |
-| ------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ | -------- | ------- | ----- |
-| [DemandPolandEu](https://github.com/Gyerchak/DemandPolandEu)                   | 🚧 in development | Market trade monitor — find profitable import/export trades… | C++      | MIT     | ⭐ 0   |
-| [StockAnalyzer](https://github.com/Gyerchak/StockAnalyzer)                     | 🚧 in development | Native stock monitoring and browse/search tool (C++20)       | C++      | MIT     | ⭐ 0   |
+| Repo                                                                           | Status                     | Description                                                  | Language | License | Stars |
+| ------------------------------------------------------------------------------ | -------------------------- | ------------------------------------------------------------ | -------- | ------- | ----- |
+| [DemandPolandEu](https://github.com/Gyerchak/DemandPolandEu)                   | 🚧 in development           | Market trade monitor — find profitable import/export trades… | C++      | MIT     | ⭐ 0   |
+| [StockAnalyzer](https://github.com/Gyerchak/StockAnalyzer)                     | 🚧 in development           | Native stock monitoring and browse/search tool (C++20)       | C++      | MIT     | ⭐ 0   |
 <!-- REPOS:END -->
 
 
