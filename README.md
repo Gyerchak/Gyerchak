@@ -1,124 +1,84 @@
-<div align="center">
+## Gyerchak
 
-# Hi, I'm Gyerchak 👋
-
-**I build games, engines and tools — mostly in modern C++, on Linux.**
-
-[![GitHub followers](https://img.shields.io/github/followers/Gyerchak?style=for-the-badge&logo=github&label=Follow&color=1f2937)](https://github.com/Gyerchak)
-&nbsp;
-[![Profile views](https://komarev.com/ghpvc/?username=Gyerchak&style=for-the-badge&color=2563eb&label=Profile+views)](https://github.com/Gyerchak)
-
-</div>
+Game and tools developer working mostly in **modern C++** on Linux — real-time games, engines,
+native utilities and AI-agent tooling.
 
 ---
 
-## 🔥 Featured
+### Featured — [elemental-moba](https://github.com/Gyerchak/elemental-moba)
+
+A real-time MOBA built around elemental bending — water, earth, fire and air — in C++23.
+
+- Terrain is part of the fight: walls, rock and elevation can be raised, moved and broken.
+- A day/night cycle, moon phases, eclipses and a comet shift the balance between elements.
+- 60 champions, a server-authoritative 128 Hz simulation, Vulkan rendering through SDL3, networking with enet.
+
+### Selected projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [Minkraft](https://github.com/Gyerchak/Minkraft) | Voxel sandbox and game engine | C++, GLSL |
+| [Globe-Game](https://github.com/Gyerchak/Globe-Game) | Interactive 3D globe game | C++, GLSL |
+| [DemandPolandEu](https://github.com/Gyerchak/DemandPolandEu) | Import/export trade finder across EU markets — freight, duty and VAT included | C++, JavaScript, CSS |
+| [StockAnalyzer](https://github.com/Gyerchak/StockAnalyzer) | Command-line stock monitor with live market data | C++20, libcurl |
+| [OpenCode-DiscordBot](https://github.com/Gyerchak/OpenCode-DiscordBot) | Discord bridge to an AI coding agent | Python |
+
+### Technologies
 
 <table>
 <tr>
+<td><b>Languages</b><br><sub>in order of preference</sub></td>
 <td>
-
-### [⚔️ elemental-moba](https://github.com/Gyerchak/elemental-moba)
-
-An **Avatar-inspired MOBA** about elemental bending — water, earth, fire and air — written in **C++23**.
-Built for the lowest latency and a stable, fully optimised server.
-
-- 🌊 **Bending changes the map** — walls, rock and elevation you can raise, move and break
-- 🌗 **A living sky** — day and night, moon phases, eclipses and a comet that empower different elements
-- ⚡ **Server-authoritative netcode** with a fixed high tick rate (SDL3 + enet)
-
-![C++23](https://img.shields.io/badge/C%2B%2B23-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SDL3](https://img.shields.io/badge/SDL3-1d4ed8?style=flat-square)
-![enet](https://img.shields.io/badge/enet-netcode-374151?style=flat-square)
-![Status](https://img.shields.io/badge/status-in%20active%20development-f59e0b?style=flat-square)
-
+<a href="https://github.com/isocpp/CppCoreGuidelines" title="C++23"><img src="assets/icons/cplusplus.svg" width="32" height="32" alt="C++23"></a>&nbsp;&nbsp;
+<a href="https://github.com/topics/c" title="C23"><img src="assets/icons/c.svg" width="32" height="32" alt="C23"></a>&nbsp;&nbsp;
+<a href="https://github.com/tc39/ecma262" title="JavaScript"><img src="assets/icons/javascript.svg" width="32" height="32" alt="JavaScript"></a>&nbsp;&nbsp;
+<a href="https://github.com/w3c/csswg-drafts" title="CSS"><img src="assets/icons/css.svg" width="32" height="32" alt="CSS"></a>&nbsp;&nbsp;
+<a href="https://github.com/python/cpython" title="Python"><img src="assets/icons/python.svg" width="32" height="32" alt="Python"></a>
+</td>
+</tr>
+<tr>
+<td><b>Graphics</b></td>
+<td>
+<a href="https://github.com/KhronosGroup/Vulkan-Docs" title="Vulkan"><img src="assets/icons/vulkan.svg" width="32" height="32" alt="Vulkan"></a>
+</td>
+</tr>
+<tr>
+<td><b>Environment</b></td>
+<td>
+<a href="https://github.com/CachyOS" title="CachyOS"><img src="assets/icons/cachyos.svg" width="32" height="32" alt="CachyOS"></a>&nbsp;&nbsp;
+<a href="https://github.com/microsoft/vscode" title="Visual Studio Code"><img src="assets/icons/vscode.svg" width="32" height="32" alt="Visual Studio Code"></a>&nbsp;&nbsp;
+<a href="https://github.com/LibreOffice/core" title="LibreOffice"><img src="assets/icons/libreoffice.svg" width="32" height="32" alt="LibreOffice"></a>&nbsp;&nbsp;
+<a href="https://github.com/latex3/latex2e" title="LaTeX"><img src="assets/icons/latex.svg" width="32" height="32" alt="LaTeX"></a>
+</td>
+</tr>
+<tr>
+<td><b>Geospatial</b></td>
+<td>
+<a href="https://github.com/qgis/QGIS" title="QGIS"><img src="assets/icons/qgis.svg" width="32" height="32" alt="QGIS"></a>&nbsp;&nbsp;
+<a href="https://github.com/OSGeo/gdal" title="GDAL"><img src="assets/icons/gdal.svg" width="32" height="32" alt="GDAL"></a>&nbsp;&nbsp;
+<a href="https://github.com/OSGeo" title="OSGeo — PROJ, GEOS"><img src="assets/icons/osgeo.svg" width="32" height="32" alt="OSGeo (PROJ, GEOS)"></a>
+</td>
+</tr>
+<tr>
+<td><b>AI &amp; agents</b></td>
+<td>
+<a href="https://github.com/anthropics/claude-code" title="Claude"><img src="assets/icons/claude.svg" width="32" height="32" alt="Claude"></a>&nbsp;&nbsp;
+<a href="https://github.com/deepseek-ai" title="DeepSeek"><img src="assets/icons/deepseek.svg" width="32" height="32" alt="DeepSeek"></a>&nbsp;&nbsp;
+<a href="https://github.com/anomalyco/opencode" title="opencode"><img src="assets/icons/opencode.svg" width="32" height="32" alt="opencode"></a>&nbsp;&nbsp;
+<a href="https://github.com/ollama/ollama" title="Ollama"><img src="assets/icons/ollama.svg" width="32" height="32" alt="Ollama"></a>
+<br><sub>Claude, DeepSeek and opencode for agent work · local models with Ollama · image generation with <a href="https://github.com/Comfy-Org/ComfyUI">ComfyUI</a></sub>
 </td>
 </tr>
 </table>
 
-## 🧩 Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [🧱 Minkraft](https://github.com/Gyerchak/Minkraft)
-Minecraft-inspired voxel sandbox and game engine.
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### [🌍 Globe-Game](https://github.com/Gyerchak/Globe-Game)
-Interactive 3D globe game.
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [📦 DemandPolandEu](https://github.com/Gyerchak/DemandPolandEu)
-Market trade monitor — finds the most profitable import and export trades between Poland and EU markets,
-with freight, duty and VAT included.
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-### [📈 StockAnalyzer](https://github.com/Gyerchak/StockAnalyzer)
-Native command-line tool for monitoring, browsing and searching stocks with live market data.
-
-![C++20](https://img.shields.io/badge/C%2B%2B20-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![libcurl](https://img.shields.io/badge/libcurl-073551?style=flat-square&logo=curl&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [🤖 OpenCode-DiscordBot](https://github.com/Gyerchak/OpenCode-DiscordBot)
-Discord bot that connects your chat to an AI coding agent (opencode).
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ More
-Private tools I use every day — a custom terminal UI for AI coding agents, sandboxed agent workspaces
-and Linux automation.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</td>
-</tr>
-</table>
-
-## 🧰 Tech I use
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,bash,cmake,opengl,linux,arch,git,github,neovim&perline=12" alt="C++, C, Python, TypeScript, Bash, CMake, OpenGL, Linux, Arch, Git, GitHub, Neovim" />
-</p>
-
-## 📊 Activity
+### Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./github-metrics-dark.svg?v=202608152155#gh-dark-mode-only">
   <source media="(prefers-color-scheme: light)" srcset="./github-metrics-light.svg?v=202608152155#gh-light-mode-only">
-  <img alt="GitHub metrics: activity, languages and contribution calendar" src="./github-metrics-light.svg?v=202608152155">
+  <img alt="GitHub activity, languages and contribution calendar" src="./github-metrics-light.svg?v=202608152155">
 </picture>
 
 ---
 
-<div align="center">
-<sub>My projects are released under the MIT License.</sub>
-</div>
+<sub>Projects are released under the MIT License.</sub>
